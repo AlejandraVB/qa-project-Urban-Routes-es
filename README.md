@@ -1,6 +1,6 @@
-#Urban Routes - Proyecto Sprint 8 - Corrección 1
+#Urban Routes - Proyecto 
 
-Maria Alejandra Velez, Grupo 29 
+Maria Alejandra Velez
 
 En este proyecto se va a automatizar las pruebas que se le realizará a la aplicación urban Routes para pedir un taxi
 haciendo uso de Selenium Webdriver
