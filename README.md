@@ -1,6 +1,6 @@
 # 🚖 Urban Routes - Proyecto de Automatización y Pruebas Manuales
 
-Este proyecto se enfoca en la automatización de pruebas para la aplicación **Urban Routes**, una app de movilidad que permite pedir un taxi.  
+Este proyecto se enfoca en la automatización de pruebas para la aplicación **Urban Routes**, una app de movilidad que permite pedir un servicio de carro.  
 El objetivo fue validar el flujo principal de solicitud y asegurar que las funcionalidades críticas cumplieran con los requerimientos definidos.  
 ## ⚙️ Funcionalidades probadas
 - Ingreso de direcciones de origen y destino  
