@@ -28,4 +28,4 @@ Se desarrollaron diferentes conjuntos de pruebas para validar la aplicación **U
 ## ✅ Logros
 - Detecté más de 10 defectos críticos en la validación de tarjetas y flujos de confirmación, evitando fallos en producción.
 - Aseguré el 100% de cobertura de pruebas en funcionalidades críticas de la aplicación, garantizando estabilidad en el flujo principal.
-- Contribuí con la elaboración de +20 documentos técnicos y manuales de pruebas, fortaleciendo la trazabilidad y el conocimiento del proyecto.
+- Contribuí con la elaboración de +20 pruebas técnicas y manuales de pruebas, fortaleciendo la trazabilidad y el conocimiento del proyecto.
