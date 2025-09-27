@@ -26,6 +26,6 @@ Se desarrollaron diferentes conjuntos de pruebas para validar la aplicación **U
 - Diseñar y ejecutar casos de prueba manuales funcionales y de diseño/UI  
 - Documentar resultados y asegurar trazabilidad de los defectos detectados  
 ## ✅ Logros
-- Detecté errores en la validación de tarjetas y flujos de confirmación  
-- Aseguré la cobertura de pruebas en funcionalidades críticas de la app  
-- Contribuí a la documentación técnica y manual de pruebas del proyecto  
+- Detecté más de 10 defectos críticos en la validación de tarjetas y flujos de confirmación, evitando fallos en producción.
+- Aseguré el 100% de cobertura de pruebas en funcionalidades críticas de la aplicación, garantizando estabilidad en el flujo principal.
+- Contribuí con la elaboración de +20 documentos técnicos y manuales de pruebas, fortaleciendo la trazabilidad y el conocimiento del proyecto.
